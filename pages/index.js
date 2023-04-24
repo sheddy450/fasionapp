@@ -203,9 +203,9 @@ import Testify from './Testimonial'
         </section>
          {/* -----------------wedding wears----------------- */}
         <section>
-         <div className='mt-20 bg-gray-200 lg:grid lg:grid-cols-2 justify-center items-center  ' style={{gridTemplateColumns: '2fr 1fr', }} >
+         <div className='mt-20 m-auto bg-gray-200 lg:grid lg:grid-cols-2 justify-center items-center ' style={{gridTemplateColumns: '2fr 1fr', }} >
            <div className='lg:ml-10 mx-auto grid grid-cols-4 gap-2 left-0 grid-rows-3 items-cent'>
-            <div className='  col-start-1 col-end-3 row-start-1 row-end-4  '><Image src={img4} width={400} style={{width: '35em', heigtht:'750px', objectFit:'cover'}} /></div>
+            <div className='  col-start-1 col-end-3 row-start-1 row-end-4  '><Image src={img4} width={400} style={{width: '35em', height:'750px', objectFit:'cover'}} /></div>
             <div  className='ml-0 mr-0 pr-0'><Image src={img3} width={300} style={{height: '15em', width:'17em', objectFit:'cover'}} /></div>
             <div className=' ml-0 pl-0' ><Image src={img5} width={300}  style={{height:'15em', width:'16em', objectFit: 'fit'}}/> </div>
            <div className='col-start-3 col-end-5 row-start-2 row-end-4 -mt-1' > <Image src={img6} width={300} style={{width: '540px', height: '500px',  objectFit:"cover"}}/></div>
