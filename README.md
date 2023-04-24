@@ -1,3 +1,7 @@
+This is a landing page that showcases different different men products ranging fron suits to native attires. The design was inspired from a figma landing page on behance. Images were gotten from unsplash. please do well to notify me if theres any observation to be corrected.
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
